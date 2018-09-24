@@ -1,0 +1,11 @@
+D:\Projects\BambooCD\BambooCD\bin\Debug\netcoreapp2.0\BambooCD.deps.json
+D:\Projects\BambooCD\BambooCD\bin\Debug\netcoreapp2.0\BambooCD.runtimeconfig.json
+D:\Projects\BambooCD\BambooCD\bin\Debug\netcoreapp2.0\BambooCD.runtimeconfig.dev.json
+D:\Projects\BambooCD\BambooCD\bin\Debug\netcoreapp2.0\BambooCD.dll
+D:\Projects\BambooCD\BambooCD\bin\Debug\netcoreapp2.0\BambooCD.pdb
+D:\Projects\BambooCD\BambooCD\obj\Debug\netcoreapp2.0\BambooCD.csprojAssemblyReference.cache
+D:\Projects\BambooCD\BambooCD\obj\Debug\netcoreapp2.0\BambooCD.csproj.CoreCompileInputs.cache
+D:\Projects\BambooCD\BambooCD\obj\Debug\netcoreapp2.0\BambooCD.AssemblyInfoInputs.cache
+D:\Projects\BambooCD\BambooCD\obj\Debug\netcoreapp2.0\BambooCD.AssemblyInfo.cs
+D:\Projects\BambooCD\BambooCD\obj\Debug\netcoreapp2.0\BambooCD.dll
+D:\Projects\BambooCD\BambooCD\obj\Debug\netcoreapp2.0\BambooCD.pdb
